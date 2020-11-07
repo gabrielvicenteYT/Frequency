@@ -9,6 +9,7 @@ import xyz.elevated.frequency.exempt.type.ExemptType;
 import xyz.elevated.frequency.update.PositionUpdate;
 import xyz.elevated.frequency.util.MathUtil;
 
+
 @CheckData(name = "Fly (D)")
 public final class FlyD extends PositionCheck {
 
